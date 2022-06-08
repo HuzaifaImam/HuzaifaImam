@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HuzaifaImam, an up and coming coder (mostly front-end)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Kotlin for android development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @HuzaifaImam, CODER, DATA SCIENCE AND ANALYTICS GEEK, BIOSTATISTICIAN, Physiotherapist and public health scientist
+- 👀 I’m interested in haelth data science and analytics, biostatistics and epidemiology research and computers!
+- 🌱 I’m currently learning ... R 4 DS, Python for DS, creating shiny apps and writing packages for R.
+- 💞️ I’m looking to collaborate on everything related to data science
 - 📫 How to reach me ...huzaifashehu@live.com
 
 <!---
