@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuzaifaImam, CODER, DATA SCIENCE AND ANALYTICS GEEK, ASPIRING BIOSTATISTICIAN, Physiotherapist and public health scientist
 - 👀 I’m interested in health data science and analytics, biostatistics and epidemiology research and computers!
 - 🌱 I’m currently learning ... R 4 DS, Python for DS, creating shiny apps and writing packages for R.
-- 💞️ I’m looking to collaborate on everything related to data science
+- 💞️ I’m looking to collaborate on everything related to data science especially health data science and analytics projects
 - 📫 How to reach me ...huzaifashehu@live.com
 
 <!---
